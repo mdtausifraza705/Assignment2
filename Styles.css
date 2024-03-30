@@ -1,0 +1,48 @@
+.header
+{
+    height:40%;
+    width: 100%;
+    font-family: Delius Unicase;
+    font-size: 17px;
+    text-align: left;
+    color: white; 
+    background-color: #6F6AF7;
+    display: flex;
+    padding: 3px 0px 6px 7px;
+    gap:100px
+    
+}
+#Dapper{
+    margin : 0px 0px 0px 0px;
+    padding: 3px 0px 6px 7px
+}
+.Span{
+    margin : 0px 0px 0px 0px;
+    padding: 3px 0px 6px 7px;
+}
+#textbox{
+    padding: 3px 0px 6px 7px;
+    margin : 0px 0px 0px 0px;
+    border-radius: 63px;
+}
+#image{
+    height:40%;
+    width: 20%;
+    margin : 60px 0px 0px 101px;
+    padding: 8px 0px -1px 7px;
+}
+#Mainbox{
+    height: 200px;
+    width: 400px;
+    background-color: #E5D8FF;
+    color: #6F7373;
+    margin: 0px 0px -4px 15px;
+    padding: -5px 0px 6px 7px;
+    font-family: DM Sans;    
+    border-radius: 20px;
+    text-align:start;
+    
+}
+.main{
+    display: flex;
+}
